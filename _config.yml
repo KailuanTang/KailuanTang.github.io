@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kailuan Tang / Site Title"
+title                    : "Kailuan Tang Personal Website"
 title_separator          : "-"
 name                     : &name "Kailuan Tang"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "kailuantang/kailuantang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kailuan Tang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
